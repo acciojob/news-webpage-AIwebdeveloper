@@ -42,6 +42,10 @@ body {
   width: 260px;
 }
 
+.pictorial-news-section{
+	text-align: center;
+}
+
 .main-article-section {
   width: 520px;
   text-align: center;
